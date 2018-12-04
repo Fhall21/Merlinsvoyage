@@ -1,0 +1,15 @@
+Title: |b'\nDeux semaines a\xc2\xa0souffler\n'|
+Date: |b' Sunday, April 19, 2015 at 8:00PM'|
+Paragraph:|
+b'Comme le veut la tradition du dimanche soir c\xe2\x80\x99est avec des crepes que nous celebrons la fin des vacances de Paques.'
+|Paragraph:|
+b'Le temps est passe doucement ces deux dernieres semaines et les enfants ont bien souffle. Un programme peu charge avec :'
+|Paragraph:|
+b'- un peu de nature'
+|Image: |1|
+Paragraph:|
+b'- un peu de culture'
+|Image: |2|
+Paragraph:|
+b'- un peu \xe2\x80\x93 ou plutot beaucoup- de lecture'
+|Image: |3|

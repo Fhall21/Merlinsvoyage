@@ -1,0 +1,18 @@
+Title: |b'\nBad weather on its\xc2\xa0way\n'|
+Date: |b' Wednesday, February 18, 2015 at 4:39PM'|
+Paragraph:|
+b'The Bureau of Meteorology says: "A tropical low lies over the central Coral Sea. It is expected to shift  towards the south southwest during today and Thursday, possibly  intensifying to a Category 1 cyclone before crossing the east Queensland  coast". ..that us!'
+|Image: |1|
+Paragraph:|
+b'Lots of rain is expecting (400mm) bringing some flash flooding. Associated with the high tide that could lead to possible riverine flooding.'
+|Paragraph:|
+b"We'll double check our mooring lines, close the hatches tightly. The weather has being really wild for the last few months so we should be prepared."
+|Paragraph:|
+b'Stronger and stronger with time, this cyclone now has a name, Marcia, and is defined of category 5 with gusts of wind approching 150-160 knt (yes knots, not km/h). Scarry for those in the area.'
+|Paragraph:|
+b"We are about 400km away from Marcia and we should have lots of rain with possible flooding. We turned Merlin this morning so we'll face the strong current, added extra mooring lines and cleared our cockpit. We are monitoring closely the path of this nasty cyclone."
+|Paragraph:|
+b'Marcia is gone but not forgotten. More than 500 houses are destroyed, damaged or flooded. 60 000 houses are without power accross the State. Time now for Queenslanders to assess the damage and start rebuilding.'
+|Paragraph:|
+b'In Brisbane, we had less wind and even less rain (only 90mm) than expected. Today we dryed up our sails and our hatches are all open to let some warm (and still pretty humid) air flow through the boat.'
+|

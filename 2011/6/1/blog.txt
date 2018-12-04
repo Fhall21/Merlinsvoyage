@@ -1,0 +1,9 @@
+Title: |b'\nA little\xc2\xa0break\n'|
+Date: |b' Sunday, June 12, 2011 at 12:39PM'|
+Paragraph:|
+b'The boat is clean and no Lego are to be found, even in the bilges: Merlin is ready for a visit of any potential buyer!'
+|Paragraph:|
+b'Some meals are waiting in the freezers for our working skipper and our friends promised to take care of Greg and his loneliness during my time away.'
+|Paragraph:|
+b'Our suitcase is full and after 4 years we are excited to visit France again. May be a little break for the news on the blog\xe2\x80\xa6'
+|

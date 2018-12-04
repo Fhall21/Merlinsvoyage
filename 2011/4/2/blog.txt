@@ -1,0 +1,9 @@
+Title: |b'\nDecouverte des\xc2\xa0charades\n'|
+Date: |b' Thursday, April 21, 2011 at 4:24PM'|
+Paragraph:|
+b'Mon premier est dans les contes'
+|Paragraph:|
+b'Je dors dans mon second'
+|Paragraph:|
+b'Mon troisieme est l\xe2\x80\x99avant avant derniere lettre de l\xe2\x80\x99alphabet'
+|Image: |1|

@@ -1,0 +1,8 @@
+Title: |b'\nComment etre en\xc2\xa0forme\n'|
+Date: |b' Friday, January 28, 2011 at 4:58PM'|
+Image: |1|
+Paragraph:|
+b'Victor: "Voici ma nouvelle invention: le tambour de la machine a laver tourne grace a quelqu\xe2\x80\x99un qui pedale vite. C\xe2\x80\x99est simple et pas besoin d\xe2\x80\x99electricite\xc2\xa0!"'
+|Paragraph:|
+b'(commentaire de celle qui fait les lessives a bord\xc2\xa0: "Oh la la,\xc2\xa0 je vais meriter le maillot a pois avec les essorages a 1200 tours/min")'
+|

@@ -1,0 +1,5 @@
+Title: |b'\nCheeky\xc2\xa0look\n'|
+Date: |b' Thursday, February 17, 2011 at 5:11PM'|
+Paragraph:|
+b"Clea est allee aujourd'hui chez le coiffeur pour la 1ere fois de sa vie! Il faut bien de temps en temps laisser faire les autres et il faut bien aussi des 1eres fois."
+|Image: |1|

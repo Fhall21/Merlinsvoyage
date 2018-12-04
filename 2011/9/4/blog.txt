@@ -1,0 +1,8 @@
+Title: |b'\nMy new\xc2\xa0pets\n'|
+Date: |b' Tuesday, September 13, 2011 at 7:47PM'|
+Paragraph:|
+b'Clea\xc2\xa0: \xc2\xab\xc2\xa0I brought back some silk worms from school. They eat a lot\xe2\x80\x9d.'
+|Image: |1|
+Paragraph:|
+b'10 days later: they are so much bigger and eat even more. We have to rush to school to fetch some mulberry leaves every couple of days (and yes the kids are on holidays!)'
+|Image: |2|

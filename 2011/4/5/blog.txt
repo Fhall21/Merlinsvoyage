@@ -1,0 +1,11 @@
+Title: |b'\n3 years under the\xc2\xa0sun\n'|
+Date: |b' Friday, April 15, 2011 at 7:27PM'|
+Image: |1|
+Paragraph:|
+b"Photos de la mise a l'eau, il y a 3 ans, dans le port de Hout Bay. Que d\xe2\x80\x99emotions au petit matin\xc2\xa0!"
+|Paragraph:|
+b'Et que d\xe2\x80\x99emotions depuis\xe2\x80\xa6'
+|Image: |2|
+Paragraph:|
+b'Cela vaut bien sur un gateau et une petite fete a bord. Merci Merlin pour toutes ces belles aventures!'
+|

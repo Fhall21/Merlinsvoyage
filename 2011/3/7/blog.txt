@@ -1,0 +1,56 @@
+Title: |b'\nBest blue\xc2\xa0spots\n'|
+Date: |b' Wednesday, March 9, 2011 at 2:40PM'|
+Paragraph:|
+b"A la demande de notre ami Eric, m\xc3\xa9decin du bord en ligne et sans fronti\xc3\xa8res, voici trois classements des meilleurs mouillages entre Le Cap (Afrique du Sud) et Brisbane (Australie). Trois car les pr\xc3\xa9f\xc3\xa9rences diff\xc3\xa8rent en fonction de ce que l\xe2\x80\x99on recherche. Les enfants aiment les plages d\xc3\xa9sertes o\xc3\xb9 ils peuvent jouer pendant des heures aux Robinsons et plonger dans une eau claire et chaude\xc2\xa0lorsqu\xe2\x80\x99ils sont trop recouverts de sable ou pour d\xc3\xa9couvrir de beaux coquillages. Les bons mouillages de Greg sont souvent synonymes d'excellentes plong\xc3\xa9es (ou apn\xc3\xa9es), de fonds riches et color\xc3\xa9s, d\xe2\x80\x99eau limpide et tr\xc3\xa8s transparente. Le mouillage d\xe2\x80\x99ailleurs sera d\xe2\x80\x99autant meilleur si l\xe2\x80\x99acc\xc3\xa8s est possible depuis les jupes de Merlin. Mes meilleurs mouillages sont ceux des bons souvenirs, des rencontres et des beaux paysages. Ces mouillages o\xc3\xb9 l\xe2\x80\x99on boit un coup \xc3\xa0 l\xe2\x80\x99avant, concients de la magie du moment et du lieu."
+|Paragraph:|
+b"(NB\xc2\xa0: il n\xe2\x80\x99y a pas d\xe2\x80\x99ordre sp\xc3\xa9cifique dans nos classements et il s'agit d'un classement non d\xc3\xa9finitif)."
+|Paragraph:|
+b'Kids Top 4\xc2\xa0:'
+|Paragraph:|
+b'Navadra (Fiji): 17\xc2\xb0 27\xe2\x80\x99S - 177\xc2\xb0 02\xe2\x80\x99E'
+|Image: |1|
+Paragraph:|
+b'Kauehi (Tuamotu \xe2\x80\x93 Polyn\xc3\xa9sie Fran\xc3\xa7aise): 15\xc2\xb0 57\xe2\x80\x99S - 145\xc2\xb0 04\xe2\x80\x99E'
+|Image: |2|
+Paragraph:|
+b'Sandy  Island (Carriacou \xe2\x80\x93 Grenade): 12\xc2\xb0 29\xe2\x80\x99N - 61\xc2\xb0 29\xe2\x80\x99W'
+|Image: |3|
+Paragraph:|
+b'Tobago Cays (St Vincent / Grenadines): 2\xc2\xb0 36\xe2\x80\x99N - 61\xc2\xb0 29\xe2\x80\x99W'
+|Image: |4|
+Paragraph:|
+b'(si je leur en demande un 5\xc3\xa8me, j\xe2\x80\x99ai alors droit a une nouvelle liste compl\xc3\xa8te\xc2\xa0!)'
+|Paragraph:|
+b'Greg\xe2\x80\x99s Top 5 :'
+|Paragraph:|
+b'Dos Mosquises (Los Roques, V\xc3\xa9n\xc3\xa9zu\xc3\xa9la)\xc2\xa0: ~17\xc2\xb0 70\xe2\x80\x99N -\xc2\xa0 66\xc2\xb0 89\xe2\x80\x99W'
+|Image: |5|
+Paragraph:|
+b'Kralendijk (Bonaire)\xc2\xa0: 12\xc2\xb0 09\xe2\x80\x99N - 68\xc2\xb0 17\xe2\x80\x99W'
+|Image: |6|
+Paragraph:|
+b'Fatu Hiva (Marquises, Polyn\xc3\xa9sie Fran\xc3\xa7aise)\xc2\xa0: 10\xc2\xb0 28\xe2\x80\x99S - 138\xc2\xb0 40\xe2\x80\x99W (Tout \xc3\xa0 fait \xc3\xa0 la hauteur de sa r\xc3\xa9putation)'
+|Image: |7|
+Paragraph:|
+b'Coral Garden (anchorage 16, Vava\xe2\x80\x99u group, Tonga)\xc2\xa0: (will have to check for the position!)'
+|Image: |8|
+Paragraph:|
+b'Pirates Bay (Charlotteville, Tobago): 11\xc2\xb0 20N - 06\xc2\xb0 33W'
+|Image: |9|
+Paragraph:|
+b'Emmanuelle\xe2\x80\x99s Top 5:'
+|Paragraph:|
+b'Long Island, Sotavento (Las Aves, V\xc3\xa9n\xc3\xa9zu\xc3\xa9la)\xc2\xa0: (will have to check for the position!)'
+|Image: |10|
+Paragraph:|
+b'Madunnundup or the Western Hollandes (San Blas, Panama): ex 9\xc2\xb0 36\xe2\x80\x99N - 78\xc2\xb0 46W'
+|Image: |11|
+Paragraph:|
+b'St James Bay (Sainte H\xc3\xa9l\xc3\xa8ne, territoire Anglais): 15\xc2\xb0 55S - 05\xc2\xb0 43W'
+|Image: |12|
+Paragraph:|
+b'Port Resolution (Tanna, Vanuatu): (mouillage tr\xc3\xa8s rouleurs mais quelle rencontre avec le volcan Yasur)\xc2\xa0: 19\xc2\xb0 31S - 169\xc2\xb0 30\xe2\x80\x99E'
+|Image: |13|
+Paragraph:|
+b'Baie Taioa (Marquises, Polyn\xc3\xa9sie Fran\xc3\xa7aise)\xc2\xa0: 8\xc2\xb057\xe2\x80\x99S - 140\xc2\xb0 10W'
+|Image: |14|

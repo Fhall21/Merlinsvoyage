@@ -1,0 +1,35 @@
+Title: |b'\nGuide des cabanes par\xc2\xa0Victor\n'|
+Date: |b' Tuesday, May 17, 2011 at 3:04PM'|
+Paragraph:|
+b'Sur la plage'
+|Paragraph:|
+b'Avoir: 1-un rocher avec une ouverture 2- des bouts de bambous 3- des feuilles de palmier'
+|Paragraph:|
+b'1-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Allonger les bouts de bambous sur le rocher'
+|Paragraph:|
+b'2-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Planter des petits bouts de bois autour du rocher'
+|Paragraph:|
+b'3-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Mettre les feuilles de palmier les unes sur les autres'
+|Paragraph:|
+b'4-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Degager le cote face a terre pour faire l\xe2\x80\x99entr\xc3\xa9e'
+|Paragraph:|
+b'5-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Creuser un trou ou une fosse tout autour pour l\xe2\x80\x99eau a maree haute'
+|Paragraph:|
+b'6-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 S\xe2\x80\x99organiser et faire un lit en hauteur'
+|Image: |1|
+Image: |2|
+Paragraph:|
+b'Dans la foret'
+|Paragraph:|
+b'Avoir: 1- des longs bouts de bois 2- une bonne paire de mains 3- un arbre 4- des feuilles (comme des feuilles de palmier)'
+|Paragraph:|
+b'1-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Creuser des trous tout autour de l\xe2\x80\x99arbre'
+|Paragraph:|
+b'2-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Mettre les longs bouts de bois: un cote sur l\xe2\x80\x99arbre, l\xe2\x80\x99autre dans les trous'
+|Paragraph:|
+b'3-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Deposer les feuilles sur les bouts de bois'
+|Paragraph:|
+b'4-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Se preparer un lit en hauteur a cause des bestioles.'
+|Paragraph:|
+b'5-\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Se prepare un bon feu de bois'
+|Image: |3|
